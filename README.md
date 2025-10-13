@@ -1,4 +1,4 @@
 # williams_design-
 
 1. [Brand Archetype](archetype.md)
-2. [Cialdini Methods of Persuision](
+2. [Cialdini Methods of Persuision](cialdini
